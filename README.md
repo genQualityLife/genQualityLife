@@ -11,7 +11,12 @@ A consequência desse impacto é ter uma qualidade de vida ruim que afetará dir
 
 ## Objetivo:
 
-## Missão: 
+Melhorar a qualidade e segurança no trabalho e conscientizar sobre a importância de seguir à risca os cuidados dentro da nossa área.
 
-## Contato:
+## Visão:
 
+Atuar de maneira nacional, ser uma referência de qualidade e informação de forma inovadora e objetiva.
+ 
+## Valores: 
+
+Segurança, Confiança, Comprometimento, Ética, Bem Estar, Saúde, Informação.
