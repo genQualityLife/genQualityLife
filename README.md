@@ -1,8 +1,7 @@
 # Bem-vindes ao Quality Life
 
-O Quality Life é uma aplicação criada para melhorar a qualidade de vida das pessoas no trabalho, conectando as pessoas com os produtos ideais que irão facilitar o dia a dia delas.
+A Quality Life é um E-commerce criado para melhorar a qualidade de vida das pessoas no trabalho, conectando as pessoas com os produtos ideais que irão facilitar o dia a dia delas.
 Conheça um pouco mais sobre o nosso projeto e como ele poderá ajudá-lo!!
-
 
 ## Como Surgiu: 
 
@@ -13,6 +12,10 @@ A consequência desse impacto é ter uma qualidade de vida ruim que afetará dir
 
 Melhorar a qualidade e segurança no trabalho e conscientizar sobre a importância de seguir à risca os cuidados dentro da nossa área.
 
+## Diferencial: 
+
+O nosso diferencial nesse e-commerce é procurar vender esses produtos para quem necessita deles com um ótimo custo-benefício e conscientizar as empresas com artigos sobre a segurança no trabalho.
+
 ## Visão:
 
 Atuar de maneira nacional, ser uma referência de qualidade e informação de forma inovadora e objetiva.
@@ -21,5 +24,3 @@ Atuar de maneira nacional, ser uma referência de qualidade e informação de fo
 
 Segurança, Confiança, Comprometimento, Ética, Bem Estar, Saúde, Informação.
 
-Encontre mais informações sobre o nosso projeto nesse link: 
-https://genqualitylife.netlify.app/home
