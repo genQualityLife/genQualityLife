@@ -20,3 +20,6 @@ Atuar de maneira nacional, ser uma referência de qualidade e informação de fo
 ## Valores: 
 
 Segurança, Confiança, Comprometimento, Ética, Bem Estar, Saúde, Informação.
+
+Encontre mais informações sobre o nosso projeto nesse link: 
+https://genqualitylife.netlify.app/home
